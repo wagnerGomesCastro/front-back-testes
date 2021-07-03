@@ -1,0 +1,21 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "jquery": "3.5.1",
+    "nodemon": "^2.0.9",
+    "popper.js": "1.16.1",
+    "react": "^16.13.1",
+    "vue": "^2.6.14",
+    "vue-audio-better": "^3.0.1"
+  }
+}
